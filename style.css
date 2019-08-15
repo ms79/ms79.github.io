@@ -64,7 +64,7 @@ a {
 }
 #content {
     position: relative;
-    background-color: #0a1729;
+    background-color: aqua;
     /* background-color: transparent; */
     margin-top: 00px;
  }
@@ -76,7 +76,7 @@ img:hover {
     opacity: .5;
 }
 .links {
-    color: aqua;
+    color: floralwhite;
     font-size: 16pt;
     background-color: transparent;
     border: none;
