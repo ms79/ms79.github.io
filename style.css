@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     /*background-image: url("imgs/mounts1.png");*/
     /*background-size: auto;*/
